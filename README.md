@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning html,css,Java Script, React, Python
 - 💞️ I’m looking to collaborate on Clarusway
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mirac-erdin)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/miraç-erdin-170a30217)
 
 <img src="https://github-readme-stats.vercel.app/api?username=miracerdin&theme=flag-india&show_icons=true" >
 <!---
