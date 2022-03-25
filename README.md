@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miracerdin
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning html,css,Java Script, React, Python
+- 🌱 I’m currently learning HTML,CSS,JavaScript, React, Python
 - 💞️ I’m looking to collaborate on Clarusway
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mirac-erdin/)
 
