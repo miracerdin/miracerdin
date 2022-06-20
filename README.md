@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @miracerdin
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML,CSS,JavaScript, React, Python
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Clarusway
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mirac-erdin/)
+- ![](https://komarev.com/ghpvc/?username=miracerdin)
 
 <img src="https://github-readme-stats.vercel.app/api?username=miracerdin&theme=flag-india&show_icons=true" >
 <!---
