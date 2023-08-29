@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @miracerdin
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on Clarusway
+- 🌱 I’m currently using Vue.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mirac-erdin/)
 - ![](https://komarev.com/ghpvc/?username=miracerdin)
 
